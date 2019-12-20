@@ -1,0 +1,11 @@
+{
+  "name": "create-ssl-certs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sea129/create-ssl-certs.git",
+  "author": "Kurt Jing <wzs129@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "devcert": "~1.0.0"
+  }
+}
