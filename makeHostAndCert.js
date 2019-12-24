@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const devcert = require('devcert');
 const domain = process.argv[2];
 const fs = require('fs');

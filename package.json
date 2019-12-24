@@ -5,6 +5,9 @@
   "repository": "git@github.com:sea129/create-ssl-certs.git",
   "author": "Kurt Jing <wzs129@hotmail.com>",
   "license": "MIT",
+  "bin": {
+    "makecerts": "./makeHostAndCert.js"
+  },
   "dependencies": {
     "devcert": "~1.0.0"
   }
