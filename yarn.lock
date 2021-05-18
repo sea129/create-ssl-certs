@@ -148,10 +148,10 @@ debug@^3.1.0:
   dependencies:
     ms "^2.1.1"
 
-devcert@~1.0.0:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/devcert/-/devcert-1.0.2.tgz#4643ebdf19eef13edb8dd958ce06f4fd0d5a2236"
-  integrity sha512-aU5bSP3BY//2wdxscrYYHQjmW/N4WAdwV/PUZ4txuIXWqcKHJLoJDyC07Crvm/C3k+F8v5xNOrIxlmXlP9Sh0A==
+devcert@~1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/devcert/-/devcert-1.1.2.tgz#5c4f816e27be540c68916e0f023cf8774f2616d6"
+  integrity sha512-B72N5Z2Lzu11dsPvg/KD9IwQCyNg6JgsNcHw7zJ+QQN9/rusMpc0tSSOYLczmty5D7vOs94IHITPQ0uei5D3cw==
   dependencies:
     "@types/configstore" "^2.1.1"
     "@types/debug" "^0.0.30"
@@ -175,7 +175,7 @@ devcert@~1.0.0:
     rimraf "^2.6.2"
     sudo-prompt "^8.2.0"
     tmp "^0.0.33"
-    tslib "^1.8.1"
+    tslib "^1.10.0"
 
 dot-prop@^4.1.0:
   version "4.2.0"
@@ -361,10 +361,10 @@ tmp@^0.0.33:
   dependencies:
     os-tmpdir "~1.0.2"
 
-tslib@^1.8.1:
-  version "1.10.0"
-  resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.10.0.tgz#c3c19f95973fb0a62973fb09d90d961ee43e5c8a"
-  integrity sha512-qOebF53frne81cf0S9B41ByenJ3/IuH8yJKngAX35CmiZySA0khhkovshKK+jGCaMnVomla7gVlIcc3EvKPbTQ==
+tslib@^1.10.0:
+  version "1.14.1"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.14.1.tgz#cf2d38bdc34a134bcaf1091c41f6619e2f672d00"
+  integrity sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==
 
 unique-string@^1.0.0:
   version "1.0.0"

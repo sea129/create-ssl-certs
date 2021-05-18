@@ -9,6 +9,6 @@
     "makecerts": "./makeHostAndCert.js"
   },
   "dependencies": {
-    "devcert": "~1.0.0"
+    "devcert": "~1.1.2"
   }
 }
